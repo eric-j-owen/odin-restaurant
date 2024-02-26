@@ -6,7 +6,7 @@ export default function home() {
     const h2 = document.createElement("h2");
     const pHours = document.createElement("p");
 
-    const h1Text = document.createTextNode("[redacted] Bistrot");
+    const h1Text = document.createTextNode("[redacted] Bistro");
     const pText = document.createTextNode(
         "We do not serve food, please don't visit as we don't exist."
     );
